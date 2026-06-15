@@ -1,8 +1,6 @@
 # OPDforLLMs — On-Policy Distillation for LLMs
 
-**Repository:** [sleepsonrockss/OPDforLLMs](https://github.com/sleepsonrockss/OPDforLLMs)
-
-A hands-on coding tutorial implementing **Generalized Knowledge Distillation (GKD)** and **On-Policy Distillation** for language models, based on the paper:
+Implementing **Generalized Knowledge Distillation (GKD)** and **On-Policy Distillation** for language models, based on the paper:
 
 > *On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes*
 > Agarwal et al., ICLR 2024
